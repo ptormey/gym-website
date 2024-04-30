@@ -4,6 +4,19 @@
   body {
     font-size: 14px;
   }
+  .v63_22 {
+    width: 834px;
+    height: 1194px;
+    background: url("../images/v63_22.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
   .v38_52 {
     width: 834px;
     height: 1194px;
@@ -24,24 +37,12 @@
     left: 0px;
     overflow: hidden;
   }
-  .name {
-    color: #fff;
-  }
-  .name {
-    color: #fff;
-  }
-  .name {
-    color: #fff;
-  }
-  .name {
-    color: #fff;
-  }
   .v38_91 {
     width: 611px;
     color: rgba(255,255,255,1);
     position: absolute;
-    top: 184px;
-    left: 16px;
+    top: 271px;
+    left: 12px;
     font-family: Roboto;
     font-weight: Bold;
     font-size: 35px;
@@ -52,49 +53,37 @@
     width: 611px;
     color: rgba(255,255,255,1);
     position: absolute;
-    top: 276px;
-    left: 9px;
+    top: 354px;
+    left: 7px;
     font-family: Roboto;
     font-weight: Bold;
     font-size: 35px;
     opacity: 1;
     text-align: center;
-  }
-  .name {
-    color: #fff;
-  }
-  .name {
-    color: #fff;
-  }
-  .name {
-    color: #fff;
   }
   .v38_67 {
     width: 611px;
     color: rgba(255,255,255,1);
     position: absolute;
-    top: 17px;
-    left: 60px;
-    font-family: Roboto;
-    font-weight: Bold;
-    font-size: 35px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v38_54 {
-    width: 611px;
-    color: rgba(255,255,255,1);
-    position: absolute;
-    top: 101px;
-    left: 0px;
+    top: 113px;
+    left: -50px;
     font-family: Roboto;
     font-weight: Bold;
     font-size: 35px;
     opacity: 1;
     text-align: center;
   }
-  .name {
-    color: #fff;
+  .v38_54 {
+    width: 611px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 193px;
+    left: -5px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 35px;
+    opacity: 1;
+    text-align: center;
   }
   .name {
     color: #fff;
@@ -144,7 +133,7 @@
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 849px;
+    top: 858px;
     left: 214px;
     overflow: hidden;
   }
@@ -167,7 +156,7 @@
     width: 392px;
     color: rgba(0,0,0,1);
     position: absolute;
-    top: 18px;
+    top: 23px;
     left: 11px;
     font-family: Roboto;
     font-weight: Regular;
@@ -177,14 +166,14 @@
   }
   .v39_124 {
     width: 423px;
-    height: 167px;
+    height: 168px;
     background: url("../images/v39_124.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 681px;
+    top: 690px;
     left: 214px;
     overflow: hidden;
   }
@@ -224,7 +213,7 @@
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 83px;
+    top: 84px;
     left: 0px;
     overflow: hidden;
   }
@@ -241,22 +230,6 @@
     border-bottom-left-radius: 47px;
     border-bottom-right-radius: 47px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    overflow: hidden;
-  }
-  .v39_137 {
-    width: 423px;
-    height: 84px;
-    background: rgba(255,255,255,1);
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    border-top-left-radius: 47px;
-    border-top-right-radius: 47px;
-    border-bottom-left-radius: 47px;
-    border-bottom-right-radius: 47px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    overflow: hidden;
   }
   .v39_129 {
     width: 392px;
@@ -279,7 +252,7 @@
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 597px;
+    top: 606px;
     left: 214px;
     overflow: hidden;
   }
@@ -319,7 +292,7 @@
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 933px;
+    top: 942px;
     left: 214px;
     overflow: hidden;
   }
@@ -336,14 +309,13 @@
     border-bottom-left-radius: 47px;
     border-bottom-right-radius: 47px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    overflow: hidden;
   }
   .v39_135 {
     width: 392px;
     color: rgba(0,0,0,1);
     position: absolute;
     top: 21px;
-    left: 15px;
+    left: 11px;
     font-family: Roboto;
     font-weight: Regular;
     font-size: 35px;
@@ -363,12 +335,27 @@
     left: 0px;
     overflow: hidden;
   }
+  .v39_137 {
+    width: 423px;
+    height: 84px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 47px;
+    border-top-right-radius: 47px;
+    border-bottom-left-radius: 47px;
+    border-bottom-right-radius: 47px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
   .v39_138 {
     width: 392px;
     color: rgba(0,0,0,1);
     position: absolute;
     top: 21px;
-    left: 17px;
+    left: 15px;
     font-family: Roboto;
     font-weight: Regular;
     font-size: 35px;
@@ -384,7 +371,7 @@
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 1101px;
+    top: 1110px;
     left: 214px;
     overflow: hidden;
   }
@@ -415,4 +402,137 @@
     opacity: 1;
     text-align: center;
   }
-  
+  .v64_22 {
+    width: 101px;
+    height: 101px;
+    background: url("../images/home_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-bottom-right-radius: 38px;
+    overflow: hidden;
+  }
+  .v63_29 {
+    width: 65px;
+    height: 65px;
+    background: url("../images/x_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 105px;
+    left: 746px;
+    overflow: hidden;
+  }
+  .v63_32 {
+    width: 65px;
+    height: 65px;
+    background: url("../images/x_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 340px;
+    left: 746px;
+    overflow: hidden;
+  }
+  .v63_30 {
+    width: 65px;
+    height: 65px;
+    background: url("../images/x_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 175px;
+    left: 746px;
+    overflow: hidden;
+  }
+  .v63_31 {
+    width: 65px;
+    height: 65px;
+    background: url("../images/x_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 260px;
+    left: 746px;
+    overflow: hidden;
+  }
+  .v63_24 {
+    width: 55px;
+    height: 55px;
+    background: url("../images/check_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 110px;
+    left: 645px;
+    border-top-left-radius: 132px;
+    border-top-right-radius: 132px;
+    border-bottom-left-radius: 132px;
+    border-bottom-right-radius: 132px;
+    overflow: hidden;
+  }
+  .v63_70 {
+    width: 55px;
+    height: 55px;
+    background: url("../images/check_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 180px;
+    left: 645px;
+    border-top-left-radius: 132px;
+    border-top-right-radius: 132px;
+    border-bottom-left-radius: 132px;
+    border-bottom-right-radius: 132px;
+    overflow: hidden;
+  }
+  .v63_71 {
+    width: 55px;
+    height: 55px;
+    background: url("../images/check_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 265px;
+    left: 645px;
+    border-top-left-radius: 132px;
+    border-top-right-radius: 132px;
+    border-bottom-left-radius: 132px;
+    border-bottom-right-radius: 132px;
+    overflow: hidden;
+  }
+  .v63_72 {
+    width: 55px;
+    height: 55px;
+    background: url("../images/check_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 345px;
+    left: 645px;
+    border-top-left-radius: 132px;
+    border-top-right-radius: 132px;
+    border-bottom-left-radius: 132px;
+    border-bottom-right-radius: 132px;
+    overflow: hidden;
+  }
