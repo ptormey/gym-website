@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v88_7 {
+    width: 834px;
+    height: 1194px;
+    background: url("../images/v88_7.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v87_5 {
+    width: 834px;
+    height: 1194px;
+    background: url("../images/v87_5.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v79_5 {
+    width: 834px;
+    height: 1194px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v87_2 {
+    width: 908px;
+    height: 1317px;
+    background: url("../images/v87_2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 37px;
+    overflow: hidden;
+  }
+  .v77_33 {
+    width: 908px;
+    height: 1317px;
+    background: rgba(255,255,255,1);
+    margin: 10px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v79_7 {
+    width: 1px;
+    height: 140px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 588px;
+    left: 31px;
+    overflow: hidden;
+  }
+  .v77_34 {
+    width: 834px;
+    height: 1196px;
+    background: url("../images/strong_man_rehab.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 60px;
+    left: 42px;
+    overflow: hidden;
+  }
+  .v77_35 {
+    width: 834px;
+    height: 100%;
+    background: url("../images/v77_35.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v77_36 {
+    width: 91px;
+    height: 91px;
+    background: url("../images/home_button.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v87_3 {
+    width: 834px;
+    height: 471px;
+    background: url("../images/.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 723px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v79_8 {
+    width: 834px;
+    height: 471px;
+    background: rgba(18,255,169,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v79_12 {
+    width: 813px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 32px;
+    left: 0px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+  }
+  
