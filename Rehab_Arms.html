@@ -1,20 +1,47 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
-        <link href="./css/Rehab_Arms.css" rel="stylesheet" />
-        <title>Document</title>
-    </head>
-    <body>
-        <div class="v64_23">
-            <div class="v64_24"></div>
-            <div class="v64_25"></div>
-            <div class="v64_26"></div>
-            <div class="v64_27"></div>
-            <span class="v64_28">Bicep</span><span class="v64_29">Tricep</span><span class="v64_30">Wrist</span><span class="v64_31">Forearm </span>
-            <a href="Home-Page.html" class="button">
-                <div class="v64_33"></div>
-            </a>
-        </div>
-    </body>
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
+    <link href="./css/Rehab_Arms.css" rel="stylesheet" />
+    <style>
+        .video {
+            position: absolute;
+            z-index: 9999; /* Adjust the z-index to bring the video to the front */
+            top: 0; /* Adjust the positioning as needed */
+            left: 0; /* Adjust the positioning as needed */
+        }
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div class="v64_23">
+        <div class="v64_24"></div>
+        <div class="v64_25"></div>
+        <div class="v64_26"></div>
+        <div class="v64_27"></div>
+        <span class="v64_28" onclick="playVideo('video1')">Bicep</span>
+        <span class="v64_29">Tricep</span>
+        <span class="v64_30">Wrist</span>
+        <span class="v64_31">Forearm</span>
+        <a href="Home-Page.html" class="button" onclick="playVideo('video1')">
+            <div class="v64_33">Button 1</div>
+        </a>
+        <a href="Home-Page.html" class="button" onclick="playVideo('video1')">
+            <div class="v64_33">Button 2</div>
+        </a>
+    </div>
+    <video id="video1" controls autoplay="true" style="display:none;">
+        <source src="rehab.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+
+    <script>
+        function playVideo(videoId) {
+            var video = document.getElementById(videoId);
+            video.style.display = "block"; // Show the video element
+            video.play(); // Play the video
+        }
+    </script>
+</body>
 </html>
